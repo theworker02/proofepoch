@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/proofepoch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof numeric epoch values, ranges, and human-readable units.",
+  "bin": {
+    "proofepoch": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/proofepoch.git"
+  },
+  "homepage": "https://theworker02.github.io/proofepoch/",
+  "keywords": [
+    "proof",
+    "epoch",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
